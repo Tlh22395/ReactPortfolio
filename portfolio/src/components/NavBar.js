@@ -21,7 +21,7 @@ export default function NavBar() {
                         Posts 
                     </NavLink>
                     <NavLink 
-                    to="/projects"
+                    to="/project"
                     className="inline-flex items-center py-3 px-3 my-6 rounded text-white"
                     activeClassName="bg-blue-900">
                         Projects 
